@@ -1492,4 +1492,5 @@ Next go back to DC-1 VM and go to the account tab of the user you picked. Click 
 You can also right click the user you picked and click reset password, or even disable the account 
 </p>
 <p>
-Now to see Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols [Continue Here](https://github.com/LeonardoCortelezzi/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+Now to see Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols
+[Continue Here](https://github.com/LeonardoCortelezzi/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
