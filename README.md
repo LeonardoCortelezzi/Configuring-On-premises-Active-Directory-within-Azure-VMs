@@ -1493,6 +1493,6 @@ You can also right click the user you picked and click reset password, or even d
 </p>
 <p>
 Now to see Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols
-</p>
 <br />
+
 [Continue Here](https://github.com/LeonardoCortelezzi/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
